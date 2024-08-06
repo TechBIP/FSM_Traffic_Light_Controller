@@ -21,7 +21,7 @@ This project implements a traffic light controller system using Verilog HDL, emp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/FSM-Traffic-Light-Controller.git
+   git clone https://github.com/username/FSM_Traffic_Light_Controller.git
    ```
 2. Open the project in Xilinx Vivado.
 3. Compile and simulate the `Traffic_Light_Controller.v` module to verify functionality.
